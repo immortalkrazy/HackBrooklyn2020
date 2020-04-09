@@ -1,0 +1,25 @@
+#content {
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0px 4px 3px rgb(0, 0, 0, 0.4), 0px 8px 13px rgb(0, 0, 0, 0.1),
+    0px 18px 23px rgb(0, 0, 0, 0.1);
+}
+body {
+  background: url(https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80);
+  background-size: cover;
+  background-position: center;
+  font-family: Lato;
+  color: white;
+}
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+html {
+  height: 100%;
+}
+hr {
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+  width: 400px;
+}
